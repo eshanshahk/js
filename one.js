@@ -4,4 +4,6 @@ console.log(variable);
 let arr=[a,b];
 console.log(arr);
 function name(){
+  console.log(a)
 }
+name();
