@@ -20,6 +20,7 @@ console.log(result);
 //second method
 
 const character = "#";
+
 const count = 8;
 const rows = [];
 
