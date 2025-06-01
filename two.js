@@ -17,7 +17,7 @@ for (const row of rows) {
 
 console.log(result);
 
-//second method
+/*second method
 
 const character = "#";
 
@@ -29,9 +29,9 @@ function padRow(rowNumber, rowCount) {
 }
 
 // TODO: use a different type of loop
-/*for (let i = 1; i <= count; i++) {
+//for (let i = 1; i <= count; i++) {
   rows.push(padRow(i, count));
-}*/
+}//
 
 let done = 0;
 
@@ -47,3 +47,4 @@ for (const row of rows) {
 }
 
 console.log(result);
+*/
