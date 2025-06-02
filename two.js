@@ -14,7 +14,6 @@ let result = ""
 for (const row of rows) {
   result = result + row + "\n";
 }
-
 console.log(result);
 
 /*second method
