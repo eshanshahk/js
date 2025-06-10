@@ -16,6 +16,7 @@ for (let i = 0; i < count; i += 1)
 let result = ""
 
 for (const row of rows) 
+  
 {
   result = result + row + "\n";
 }
